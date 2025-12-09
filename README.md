@@ -1,8 +1,13 @@
 # NAS Drive Breakdown
-- OS BTRFS Mirror  
-  - 2x Intel SSDSC2KB240G7 DC S4500 240GB SATA - OS BTRFS Mirror  
+- OS BTRFS Mirror
+  - 2x Intel SSDSC2KB240G7 DC S4500 240GB SATA 
 - ZFS Pool - Containers
-  - Intel SSDSC2BX800G4 S3610 800GB 800GB SATA - Containers ZFS Single Drive  
-Samsung 970 EVO Plus 250GB NVME & Samsung 850 EVO SATA SSD 250GB - Docker ZFS Mirror  
-Seagate Barracuda 6TB ST6000DM003  & TOSHIBA X300 5TB HDWE150 - Downloads ZFS Mirror  
-Crucial MX500 1TB SATA SSD CT1000MX500SSD1 - Photos ZFS Single Drive  
+  - Intel SSDSC2BX800G4 S3610 800GB 800GB SATA
+- ZFS Pool Mirror - Docker
+  - Samsung 970 EVO Plus 250GB NVME
+  - Samsung 850 EVO SATA SSD 250GB
+- ZFS Pool Mirror - Downloads 
+  - Seagate Barracuda 6TB ST6000DM003
+  - TOSHIBA X300 5TB HDWE150
+- ZFS Pool - Photos 
+  - Crucial MX500 1TB SATA SSD CT1000MX500SSD1
