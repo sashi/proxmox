@@ -6,6 +6,7 @@ Xeon E5-2687W V4 3GHz 3.5GHz Max Turbo 12 Core 24 Threads
 GT710 - OS GPU   
 NVIDA Telsa P4 - VM vGPU  
 LSI SAS  
+Zigbee2Mqtt USB Dongle  
 
 # NAS Drive Breakdown
 - OS BTRFS Mirror
