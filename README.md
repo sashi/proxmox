@@ -29,6 +29,7 @@ Zigbee2Mqtt USB Dongle
 
 # Future Upgrades
 5060TI  - Replace with P4 - ~$500 CAD  
-1x PCI-e X1 to M.2 NVME Adapter - $20 CAD  
-1x PM983 Samsung 960GB add to containers - ~ $178 CAD  
+2x PCI-e X1 to M.2 NVME Adapter - $20 CAD  
+1x PM983 Samsung 960GB M.2 NVME add to containers - ~ $178 CAD  
+Remove 850 EVO Replace with 256GB NVME M.2 ~ $20-50 CAD  
 1x SSDSC2BX800G4 S3610 add to photos - ~$60 CAD  
