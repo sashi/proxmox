@@ -31,7 +31,10 @@ Zigbee2Mqtt USB Dongle
 
 # Future Upgrades
 X399 AORUS Gaming 7  
-AMD Ryzen Threadripper 1950X 3.4GHz 4GHz Boost 12C/32T or AMD Ryzen Threadripper 1920X  3.5GHz 4 GHz Boost 12C/32T  
+AMD Ryzen Threadripper 1950X 3.4GHz 4GHz Boost 16C/32T  
+Or  
+AMD Ryzen Threadripper 1920X  3.5GHz 4 GHz Boost 12C/24T  
+4x 16GB DDR4 UDIMM (Get 4x more when ram prices drop after AI)  
 
 PCIe to Quad U.2 Card  
 2x 1.2TB U.2 Drives  
@@ -40,6 +43,6 @@ Remove Toshiba 5TB
 Use Seagate 6TB ZFS Single for Downloads (zfs detach downloads device, zpool remove downloads device)  
 Get another 256GB NVME M.2 - Gives me 2x 256GB NVME M.2 - Use that for Docker ZFS Mirror  
 Remove 250GB Sasmung 850 EVO  
-Move Intel SSDSC2BX800G4 S3610 800GB & add to photos for ZFS mirror (zfs attach pool drive1 drive2)  
+Move Intel SSDSC2BX800G4 S3610 800GB & add to photos for ZFS mirror (zfs attach photos drive1 drive2)  
 GTX 5060ti  
 
