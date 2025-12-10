@@ -5,7 +5,7 @@ Xeon E5-2687W V4 3GHz 3.5GHz Max Turbo 12 Core 24 Threads
 94GB DDR4 ECC  
 GT710 - OS GPU   
 NVIDA Telsa P4 - VM vGPU  
-LSI SAS  
+LSI 9207-8i
 Zigbee2Mqtt USB Dongle  
 
 # NAS Drive Breakdown
@@ -25,24 +25,10 @@ Zigbee2Mqtt USB Dongle
   - 2x Seagate Barracuda 10TB SATA HDD ST10000DM0004-1ZC101
   - 2x Western Digital 10TB SATA HDD WD100EMAZ-00WJTA0
   - Seagate Barracuda 10TB SATA HDD ST10000DM005-3AW101
-  - HGST Ultrastar 12TB SATA HDD HUH721212ALN600
-
-
+  - HGST Ultrastar 12TB SATA HDD HUH721212ALN600  
 
 # Future Upgrades
-X399 AORUS Gaming 7  
-AMD Ryzen Threadripper 1950X 3.4GHz 4GHz Boost 16C/32T  
-Or  
-AMD Ryzen Threadripper 1920X  3.5GHz 4 GHz Boost 12C/24T  
-4x 16GB DDR4 UDIMM (Get 4x more when ram prices drop after AI)  
-
-PCIe to Quad U.2 Card  
-2x 1.2TB U.2 Drives  
-Move containers to 2x 1.2TB mirrored  
-Remove Toshiba 5TB  
-Use Seagate 6TB ZFS Single for Downloads (zfs detach downloads device, zpool remove downloads device)  
-Get another 256GB NVME M.2 - Gives me 2x 256GB NVME M.2 - Use that for Docker ZFS Mirror  
-Remove 250GB Sasmung 850 EVO  
-Move Intel SSDSC2BX800G4 S3610 800GB & add to photos for ZFS mirror (zfs attach photos drive1 drive2)  
-GTX 5060ti  
-
+5060TI  - Replace with P4 - ~$500 CAD  
+1x PCI-e X1 to M.2 NVME Adapter - $20 CAD  
+1x PM983 Samsung 960GB add to containers - ~ $178 CAD  
+1x SSDSC2BX800G4 S3610 add to photos - ~$60 CAD  
