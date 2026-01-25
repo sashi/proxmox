@@ -26,7 +26,6 @@ Zigbee2Mqtt USB Dongle
   - Seagate Barracuda 10TB SATA HDD ST10000DM005-3AW101
   - HGST Ultrastar 12TB SATA HDD HUH721212ALN600  
 - ZFS Pool - Container Backup
-  - Seagate Barracuda 6TB SATA HDD ST6000DM003
   - Crucial MX500 1TB SATA SSD
 
 # Future Upgrades
