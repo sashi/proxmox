@@ -21,9 +21,9 @@ Zigbee2Mqtt USB Dongle
 - ZFS Pool Mirror - Photos 
   - 2x Micron 1300 512GB SATA SSD
 - ZFS Pool RaidZ2 - Media
-  - 2x Seagate Barracuda 10TB SATA HDD ST10000DM0004-1ZC101
+  - 2x Seagate Barracuda 10TB SATA HDD ST10000DM005-3AW101
   - 2x Western Digital 10TB SATA HDD WD100EMAZ-00WJTA0
-  - Seagate Barracuda 10TB SATA HDD ST10000DM005-3AW101
+  - Seagate Barracuda 10TB SATA HDD ST10000DM0004-1ZC101
   - HGST Ultrastar 12TB SATA HDD HUH721212ALN600  
 - ZFS Pool Mirror - Backups
   - Crucial MX500 1TB SATA SSD
