@@ -31,5 +31,3 @@ Zigbee2Mqtt USB Dongle
 
 # Future Upgrades
 5060TI  - Replace with P4 - ~$500 CAD  
-Remove 6TB SATA for Container backup and replace with 1x1TB Cruical & 1x 960GB SSD  
-Place 1x Intel 800GB into containers 
