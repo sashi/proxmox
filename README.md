@@ -2,7 +2,7 @@
 Fractal Design Define R5  
 ASUS X99-A LGA 2011-V3  
 Xeon E5-2687W V4 3GHz 3.5GHz Max Turbo 12 Core 24 Threads  
-94GB DDR4 ECC  
+128GB DDR4 ECC  
 GT710 - OS GPU   
 NVIDA Telsa P4 - VM vGPU  
 LSI 9207-8i
